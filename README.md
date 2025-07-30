@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm Chirag Dhawan
 
-- 🎯 Passionate Python Developer | AI/ML & Data Science Enthusiast | Web3 Explorer
-- 🚀 Building real-world tools, automation scripts, and trading bots — one thoughtful project at a time.
+🎯 Passionate Python Developer | AI/ML & Data Science Enthusiast | Web3 Explorer
 
 ---
 
