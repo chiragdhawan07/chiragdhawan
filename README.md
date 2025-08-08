@@ -5,23 +5,38 @@
 ---
 
 ## 🚀 About Me
-- 🧠 Self-taught Python developer with a deep interest in AI, automation, and analytics.
-- 💬 Currently working on: 
-  - 🤖 A Jarvis-style virtual assistant with voice + ChatGPT
-  - 💬 A WhatsApp chatbot using OpenAI API.
-  - 📊 Crypto trading bots using TA (EMA, RSI, ADX) and backtesting
-- 🧪 Learning AI/ML hands-on through practical, focused projects.
-- 🔁 Consistently building projects to sharpen logic and creativity.
+
+- 🧠 I'm a self-taught Python developer passionate about **AI**, **automation**, and **data-driven problem solving**.
+- 🔧 I love turning ideas into working code — from simple scripts to full-blown smart assistants.
+- 💻 Currently building:
+  - 🤖 A voice-activated **Jarvis-style AI assistant** using ChatGPT, automation, and natural language understanding.
+  - 💬 A smart **WhatsApp chatbot** powered by the OpenAI API that reads, responds, and adapts in real-time.
+  - 📊 Advanced **crypto trading bots** using technical indicators (EMA, RSI, ADX) and backtesting strategies.
+- 🧪 Hands-on learning in **AI/ML** through real-world, practical projects.
+- 🧠 Sharpening logic and creativity by consistently building, experimenting, and refining my Python skills — one project at a time.
+
 
 ---
 
 ## 🔧 What I’m Building & Learning
 
-- ⚙️ Python Automation: WhatsApp bots, file handlers, PDF/audio converters.
-- 🎮 CLI Projects & Games: OOP-based Python games and tools.
-- 🧠 AI/ML: Exploring data analysis, prediction models, and AI tools.
-- 📈 Trading Tools: Chart indicators, signal setups, and bot backtesting.
-- 🧑‍💻 Daily Dev Practice: Uploading 2-3 mini projects in a week to stay sharp.
+- 🐍 **100 Days of Python Challenge**
+  Building 100 mini Python projects in 100 days to master core programming, logic, and real-world automation.
+
+- 🤖 **Jarvis-Style AI Assistant**
+  Voice-controlled desktop assistant powered by ChatGPT — opens apps, fetches info, automates tasks with natural language.
+
+- 💬 **WhatsApp Auto-Responder Bot**
+  Reads WhatsApp messages directly from the screen and replies smartly using OpenAI API. Fully autonomous & customizable.
+
+- 📈 **Crypto Trading Bots**
+  Python bots that analyze charts with EMA, RSI, ADX indicators and support full backtesting to optimize trading strategies.
+
+- 🧠 **AI/ML Practical Projects**
+  Hands-on ML projects like spam filters, recommendation systems, and data visualizers to build real AI skills through code.
+  
+- ⚙️ **Mini Tools to Sharpen Logic**
+  Small, powerful Python tools built regularly to boost creativity, consistency, and hands-on problem-solving skills.
 
 > 💡 "I don't just learn to code — I code to learn."
 
